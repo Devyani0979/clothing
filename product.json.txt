@@ -1,0 +1,23 @@
+[
+  {
+    "id": "p1",
+    "title": "Floral Summer Dress",
+    "price": 799,
+    "image": "/images/dress1.jpg",
+    "description": "Light cotton summer dress."
+  },
+  {
+    "id": "p2",
+    "title": "Casual T-Shirt",
+    "price": 399,
+    "image": "/images/tshirt1.jpg",
+    "description": "Soft cotton tee."
+  },
+  {
+    "id": "p3",
+    "title": "Denim Jeans",
+    "price": 1299,
+    "image": "/images/jeans1.jpg",
+    "description": "Comfort fit denim."
+  }
+]
